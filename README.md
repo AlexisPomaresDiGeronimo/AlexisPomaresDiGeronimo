@@ -8,7 +8,7 @@ I enjoy designing scalable applications, solving complex business problems throu
 
 ## 💼 Professional Experience
 
-### 🇬🇷 Country Manager – Greece | Atermon South
+### 🇬🇷 Java Software Engineer | Atermon South
 
 **January 2025 – Present**
 
